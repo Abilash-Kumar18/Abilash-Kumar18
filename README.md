@@ -72,22 +72,26 @@
 
 <div align="center">
 
-### Languages
+### 👨‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B0F1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0F1A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0B0F1A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-0B0F1A?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0B0F1A?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### Frameworks & Tools
+### ⚙️ Frameworks / Runtime / Styling
 ![React](https://img.shields.io/badge/React-0B0F1A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-0B0F1A?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Node.js](https://img.shields.io/badge/Node.js-0B0F1A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0B0F1A?style=for-the-badge&logo=express&logoColor=ffffff)
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-0B0F1A?style=for-the-badge&logo=cssmodules&logoColor=ffffff)
+
+### 🧠 AI / Automation / Tools
+![n8n](https://img.shields.io/badge/n8n-0B0F1A?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 ![Git](https://img.shields.io/badge/Git-0B0F1A?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0B0F1A?style=for-the-badge&logo=github&logoColor=ffffff)
-![n8n](https://img.shields.io/badge/n8n-0B0F1A?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 
 </div>
-
----
 
 ## 📊 Galactic Stats
 
