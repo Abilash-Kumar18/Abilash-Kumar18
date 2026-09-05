@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Abilash%20Kumar&fontAlign=50&fontAlignY=40&color=0:0f0c29,45:302b63,100:24243e&fontColor=E0E7FF&desc=Building%20Ideas%20Across%20the%20Galaxy%20🚀&descAlign=50&descAlignY=65" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=7DF9FF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+🚀;AI+%26+Automation+Enthusiast+🤖;Crafting+Modern+Web+Experiences+✨;Always+Learning,+Always+Building+🌟" alt="Typing animation" />
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%" height="220" alt="coding animation"/>
 
 </div>
 
