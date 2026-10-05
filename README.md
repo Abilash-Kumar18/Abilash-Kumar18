@@ -11,11 +11,6 @@
 ---
 
 ## 🌌 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ9wL4yNxe/giphy.gif" width="100%" height="220" alt="Starfield animation" />
-</div>
-
 - 🔭 Building modern web apps and AI-powered products  
 - 🌱 Learning advanced full-stack systems, automation & AI agents  
 - 🧠 I enjoy solving real-world problems with clean UX  
