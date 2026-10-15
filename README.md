@@ -18,7 +18,7 @@
 
 ---
 
-## 🌠 Top Projects (Mission Log)
+## 🌠 Top Projects(Mission Log)
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="200" alt="Galaxy animation" />
@@ -31,7 +31,7 @@
       <p>A modern portfolio built with React, Vite, and CSS Modules.</p>
       <p>
         <a href="https://my-portfolio-theta-plum-8uceafob31.vercel.app/">🔗 Live Demo</a><br/>
-        <a href="https://github.com/Abilash-Kumar18/my-portfolio">📦 Repository</a>
+        <a href="https://github.com/Abilash-Kumar18/my-portfolio">Repository</a>
       </p>
     </td>
     <td width="50%">
